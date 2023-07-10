@@ -1,7 +1,4 @@
-# Hey Guys !
-## I am Abdoo !
-### I am a beginner FNF modder and a beginner programmer
-
+# Introduction
 - 👋 Hi, I’m @AbdooOwd
 - 👀 I’m interested in Games & Engineering & Programming - Software & hardware sides
 - 🌱 I’m currently learning about decompilation/reverse engineering process
@@ -12,4 +9,18 @@
 Abdou990F/Abdou990F is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdooOwd)](https://github.com/anuraghazra/github-readme-stats)
+
+# What I know
+I know a lot about programming, and the most known things I have are:
+* Python
+* C/C++ (basics)
+* Haxe
+* GDScript
+  * A programming language for the Godot Game Engine
+
+# What I like
+I like:
+* Coding / Programming
+* Gaming
+* Game Dev
+* Software / Hardware
