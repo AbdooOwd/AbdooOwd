@@ -2,11 +2,11 @@
 ## I am Abdoo !
 ### I am a beginner FNF modder and a beginner programmer
 
-- 👋 Hi, I’m @Abdou990F
-- 👀 I’m interested in Games & Engineering
-- 🌱 I’m currently learning Coding part by part
-<!---- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...--->
+- 👋 Hi, I’m @AbdooOwd
+- 👀 I’m interested in Games & Engineering & Programming - Software & hardware sides
+- 🌱 I’m currently learning about decompilation/reverse engineering process
+- 💞️ I’m looking to collaborate on easy open-source projects, especially N64 related projects
+<!---- 📫 How to reach me ...--->
 
 <!---
 Abdou990F/Abdou990F is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
