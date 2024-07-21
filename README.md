@@ -1,26 +1,27 @@
-# Introduction
-- 👋 Hi, I’m @AbdooOwd
-- 👀 I’m interested in Games & Engineering & Programming - Software & hardware sides
-- 🌱 I’m currently learning about decompilation/reverse engineering process
-- 💞️ I’m looking to collaborate on easy open-source projects, especially N64 related projects
-<!---- 📫 How to reach me ...--->
+# Introducing: Introduction - The First
+'Sup Github. I'm @AbdooOwd. I'm a *<insert age>* years old Algerian guy who loves
+Computer Science and Science in general. I'm smart and curious, and I always ~~break~~ try
+new things, sometimes, when I feel like doing it.
 
-<!---
-Abdou990F/Abdou990F is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+# Knowledge
+I'm familiar with numerous concepts, like:
+* Computer Architecture
+* Memory Management
+* How an OS works
+* Programming Languages (in general)
+* Web Development (partially)
+* Low-Level Programming (I contributed to [ZeldaRET's Majora's Mask Decompilation](https://github.com/ZeldaRET/mm/) and made a 32bit then 64bit OS)
 
-# What I know
-I know a lot about programming, and the most known things I have are:
+## Programming Language
+I'm allso pretty familiar with many programming languages like:
 * Python
-* C/C++ (basics)
-* Haxe
-* GDScript
-  * A programming language for the Godot Game Engine
+* C/C++ (I have less experience with C++)
+* Haxe (I worked on some Friday Night Funkin Mods, a game that uses Haxe)
+* GDScript (Programming Language similar to Python for the Godot Game Engine)
+* JavaScript/TypeScript
+* Rust (REALLY Partially)
 
-# What I like
-I like:
-* Coding / Programming
-* Gaming
-* Game Dev
-* Software / Hardware
+# Likes
+I like Gaming, Art, and Knowledge. To be specific, I like gaming in general (when I appreciate certain games).
+I like arts, I sometimes draw and animate, and I like taking a look at pinterest.
+I like learning. Either by adding knowledge to my "Mental Library" or trying to improve myself.
