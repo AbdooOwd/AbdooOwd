@@ -12,3 +12,9 @@ and is currently learning Rust. I also know Python and GDScript.
 But really, as long as I know C, it means I understand programming--not only can I code,
 but I can also program (do not confuse the two)! So this knowledge can pretty much
 be translated to any programming-language.
+
+## "Why do you have so few repos? And why are they so lame?"
+My super-good repos which I'm proud of are all private for some personal & religious reasons;
+my projects could be misused--even in the most atomic act of "misuse".
+So I prefer keeping my nice projects private at the cost of not looking like a cool dev...
+But! In exchange I'm a good muslim :D
